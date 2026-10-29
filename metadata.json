@@ -1,0 +1,6 @@
+{
+  "name": "Radar Penipu",
+  "description": "Lacak penipu telepon dan chat dengan database laporan masyarakat real-time, foto profil pelaku, dan radar lokasi perangkat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
